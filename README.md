@@ -1,9 +1,6 @@
 # Facial Emotion Recognition using CNN
 
-[![LICENCE.md](https://img.shields.io/github/license/17arhaan/facial-recognition)](https://github.com/17arhaan/facial-recognition/blob/master/LICENSE)
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/17arhaan)
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/17arhaan/open-source-badges/)
-[![Awesome Badges](https://img.shields.io/badge/badges-awesome-green.svg)](https://github.com/17arhaan/badges)
 
 This is a deep learning project entirely based on neural networks for Facial Emotion Recognition (FER). This project demonstrates one of the classical applications in deep learning and computer vision.
 
